@@ -1,0 +1,4 @@
+﻿  String.cpp
+C:\Users\龙\source\repos\3-26（string）\String.cpp(27,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\龙\source\repos\3-26（string）\String.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+  3-26（string）.vcxproj -> C:\Users\龙\source\repos\3-26（string）\Debug\3-26（string）.exe
